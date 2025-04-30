@@ -35,6 +35,7 @@ Execute the programs and publish them.
     
     Anna Nagar has several established schools and colleges, places of worship, shopping areas with both independent shops and chain stores, and numerous restaurants. The 2nd avenue is an arterial road in Anna Nagar which has emerged as a hub for several restaurants and shops. There are also a number of midsize hospitals and nursing homes catering to the local population.</h1>
 ## OUTPUT
+![Screenshot 2025-04-30 114003](https://github.com/user-attachments/assets/d83f6cb3-74b2-4f58-bbf1-183311c537bc)
 ![alt text](<WhatsApp Image 2025-04-30 at 11.57.34_ec47be3b.jpg>)
 ![alt text](<WhatsApp Image 2025-04-30 at 11.57.50_de2da724.jpg>)
 ![alt text](<WhatsApp Image 2025-04-30 at 11.58.03_dd849ea5.jpg>)
